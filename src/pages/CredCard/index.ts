@@ -1,0 +1,1 @@
+export { CredCard } from "./CredCard"
